@@ -45,8 +45,7 @@
     width: 600px;
     gap: 32px;
     padding: 40px;
-
-    box-shadow: rgba(0, 0, 0, 0.16) 20px 20px 36px 13px;
+    box-shadow: rgba(120, 91, 124, 0.16) 20px 20px 36px 13px;
   }
 
   .icon {
